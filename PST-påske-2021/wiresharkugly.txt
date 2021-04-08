@@ -1,0 +1,2796 @@
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 17136e9036f9ad795eb36507725184f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 13a7d08ced5f84537b9be031a6c9825d
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 61809f425222f79766a559ba13d38a02
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 61809f425222f79766a559ba13d38a02
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a95f7b1536b399310b170bbe39f53c30
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 38c3051e54a8959e2c1007957a26c5e1
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e83d6b7cb4812aabe7eb969014c06fe3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f2a3e7081744878e5f5103a079d32b57
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 938e830aefecb58619f2f6f182989eda
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a8637a645ce28faac4df2d9327eea306
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3fecfe50177672247397f0b2a8c9412b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dcd263a39290f12a9671074981cffd3e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8b605c438be076df60fe504334414a17
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 38c3051e54a8959e2c1007957a26c5e1
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dcd263a39290f12a9671074981cffd3e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 546f4ae1ed92008156fef812815ec3f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: d4d783e4187a9ddccea598eae9439f50
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: d4d783e4187a9ddccea598eae9439f50
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a866544b51cd0b7744db258f2995b29b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dbeff2ac2bcbea0885fdd1bd061df9c3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a9e337e5c33459f44985ad18c160903a
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dbeff2ac2bcbea0885fdd1bd061df9c3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 12731b8a10d65ab12ccfd9d88c032b94
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a866544b51cd0b7744db258f2995b29b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f2a3e7081744878e5f5103a079d32b57
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a5762149346916b8e249f18e1165891a
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: d4d783e4187a9ddccea598eae9439f50
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6628612d225b9a2b9183ce44fd34a5b9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: c2bcbe742a06f81f46ba0282c7b08675
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: c2bcbe742a06f81f46ba0282c7b08675
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dbeff2ac2bcbea0885fdd1bd061df9c3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6ced7a8edd3e7a7b0a43ab679ffef7da
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 4fec921603cd09123a2b87439c5aab49
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 48819788bdb78a522a855875ae077122
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 546f4ae1ed92008156fef812815ec3f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 89f541390115d6c3d4f2d6a73c064692
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: c2bcbe742a06f81f46ba0282c7b08675
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: d4d783e4187a9ddccea598eae9439f50
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 546f4ae1ed92008156fef812815ec3f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 89f541390115d6c3d4f2d6a73c064692
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6ced7a8edd3e7a7b0a43ab679ffef7da
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 12731b8a10d65ab12ccfd9d88c032b94
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dbeff2ac2bcbea0885fdd1bd061df9c3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: c2bcbe742a06f81f46ba0282c7b08675
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 61809f425222f79766a559ba13d38a02
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 61809f425222f79766a559ba13d38a02
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a95f7b1536b399310b170bbe39f53c30
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 38c3051e54a8959e2c1007957a26c5e1
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e83d6b7cb4812aabe7eb969014c06fe3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f2a3e7081744878e5f5103a079d32b57
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: b2c6e9aef5eb1fe97562734b62578c8e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 938e830aefecb58619f2f6f182989eda
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a8637a645ce28faac4df2d9327eea306
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3fecfe50177672247397f0b2a8c9412b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dcd263a39290f12a9671074981cffd3e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8b605c438be076df60fe504334414a17
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 38c3051e54a8959e2c1007957a26c5e1
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a783133a08570cc26041951134aa2162
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dcd263a39290f12a9671074981cffd3e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 38c3051e54a8959e2c1007957a26c5e1
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 17136e9036f9ad795eb36507725184f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e83d6b7cb4812aabe7eb969014c06fe3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 938e830aefecb58619f2f6f182989eda
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dcd263a39290f12a9671074981cffd3e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a95f7b1536b399310b170bbe39f53c30
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3dcee520913dd353c4263876be8bf22b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a8637a645ce28faac4df2d9327eea306
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: cd2a836aca4b84e9d337343cc5d7aa91
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 12731b8a10d65ab12ccfd9d88c032b94
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e6c46278b06a8ceabbbb2b71a56dbc72
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 385649cba42dbc5755c083f97a743720
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f2a3e7081744878e5f5103a079d32b57
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a5762149346916b8e249f18e1165891a
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: cd75bfb382696a2a2234500350cfaa4e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 873aa24157f434250f4e34bf2d86cc5c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:13 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:14 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:14 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:14 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:15 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:15 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:17 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:17 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: f894585f0f10e38e5e48d5061174c588
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 12731b8a10d65ab12ccfd9d88c032b94
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dbeff2ac2bcbea0885fdd1bd061df9c3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:19 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:19 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6ced7a8edd3e7a7b0a43ab679ffef7da
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: d4d783e4187a9ddccea598eae9439f50
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 3fecfe50177672247397f0b2a8c9412b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a866544b51cd0b7744db258f2995b29b
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:23 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 7c9b21fa1aa8d5434ac41f40d18b7f8c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:23 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 546f4ae1ed92008156fef812815ec3f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:23 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6ced7a8edd3e7a7b0a43ab679ffef7da
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:25 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:25 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:26 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:26 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:26 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 4fec921603cd09123a2b87439c5aab49
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:28 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:28 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a9e337e5c33459f44985ad18c160903a
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:29 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:29 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 97cb89818dcad790bad7eca4cab2e452
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:30 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:30 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 546f4ae1ed92008156fef812815ec3f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:31 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: d4d783e4187a9ddccea598eae9439f50
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:31 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 12731b8a10d65ab12ccfd9d88c032b94
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:32 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:32 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:32 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a0309b1d49bce00e928df5e01e6d7976
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:32 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 18b38d9c2a60a06193a42a22e3c2dc11
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:33 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: dbeff2ac2bcbea0885fdd1bd061df9c3
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:33 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:33 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a9e337e5c33459f44985ad18c160903a
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 7c9b21fa1aa8d5434ac41f40d18b7f8c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:35 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 546f4ae1ed92008156fef812815ec3f9
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:35 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6ced7a8edd3e7a7b0a43ab679ffef7da
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: e2ae42a16273752cf6d8ea724a01a355
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: adfadb571252c1cb9825606b11e37c01
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: bb5c925a84cf504a8e8b026c3c4f4777
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:37 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 12731b8a10d65ab12ccfd9d88c032b94
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:37 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 6ced7a8edd3e7a7b0a43ab679ffef7da
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:38 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94527edec425c3bf00cd86b004a32aa2
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:39 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: a9e337e5c33459f44985ad18c160903a
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:39 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 7c9b21fa1aa8d5434ac41f40d18b7f8c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: cd75bfb382696a2a2234500350cfaa4e
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 61809f425222f79766a559ba13d38a02
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 8930758e70295794e4f917a11f63653f
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 61809f425222f79766a559ba13d38a02
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+GET / HTTP/1.1
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: ccefc8b8510413935eac99391154941c
+accept: */*
+host: eggschange.harefjell.local
+
+HTTP/1.1 200 OK
+Date: Fri, 02 Apr 2021 12:37:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
