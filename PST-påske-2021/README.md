@@ -14,7 +14,7 @@ Når vi søker opp Mikael Foks på twitter (https://twitter.com/FoksMikael) ser 
 
 
 ## Langfredag
-I dag kræsjet Eggschange-serveren. Vi får en event log som beskriver hendelsene. Scroller man helt ned så ser vi at en ny oppdatering forårsaket at det hele kræsjet. Oppdateringen kommer fra git@paaschecomsulting/eggschange.
+I dag kræsjet Eggschange-serveren. Vi får en event log som beskriver hendelsene. Scroller man helt ned så ser vi at en ny oppdatering forårsaket at det hele kræsjet. Oppdateringen kommer fra `git@paaschecomsulting/eggschange`.
 
 ![Event log](eventlog.PNG)
 
@@ -24,7 +24,7 @@ Inne på github så kan vi finne profilen til Paasche Consulting, https://github
 
 ![Peisen](peis.PNG)
 
-Det er en litt langsom prosess, men ellers ikke så vanskelig. Man må blant annet putte en fil på peisen (som slettes). 
+Det er en litt langsom prosess, men ellers ikke vanskelig. Man må blant annet putte en fil på peisen (som slettes). 
 En noe komplisert oppgraderingsprosess senere så går musepekeren amok. Kult. 
 
 Jeg går videre med å se på funksjonene i `module.psm1` (som har blitt importert ved hjelp av oppgraderingsveilederen). Det er mye rart i koden! Etter litt testing så ser det ut til at kun `Test-EggchangeFlag` er relevant, men den krever en nøkkel.
@@ -36,9 +36,10 @@ Jeg går videre med å se på funksjonene i `module.psm1` (som har blitt importe
 ![Hjelp](hjelp.PNG)
 ![Hjelpebilder](hjelpebilder.PNG)
 
- Jeg hadde allerede prøvd stenografi på bildene som poppet ut av `Hjelp_1` og `Hjelp_2` fra oppgraderingsveilederen, men kunne ikke finne noe nyttig. Til slutt så jeg en sammenheng mellom bildene og en kodesnutt. Det er nevnt MD5 både i bildene (kan laste de opp i f.eks. CyberChef) og i `Get-EggschangeEggHash`. 
+ Jeg hadde allerede prøvd steganografi på bildene som poppet ut av `Hjelp_1` og `Hjelp_2` fra oppgraderingsveilederen, men kunne ikke finne noe nyttig. Til slutt så jeg en sammenheng mellom bildene og en kodesnutt. Det er nevnt MD5 både i bildene (kan laste de opp i f.eks. CyberChef) og i `Get-EggschangeEggHash`. 
 
 ![MD5](md5.PNG)
+
 ![Get-FileHash](gethash.PNG)
 
 Ved å kjøre `Get-FileHash -Path $Egg -Algorithm $Eggtype` der $Egg er fillokasjon til bilde (begge gir samme svar) og $Eggtype lik MD5 så dukker nøkkelen vi ønsker opp! Nøkkelen er `4A981C87EF142F95D04424A29235DCFC`. Denne gir oss flagget når vi kjører `Test-EggchangeFlag`. Flagget er `PST{PaascheStemning_og_Kraftskall}`
@@ -56,14 +57,39 @@ Vi ser også link til Githuben til paskeharen. På Github ligger Eggnett-client,
  Etter å ha testet ut kommandoen litt innså jeg at jeg måtte sende meldinger til meg selv for å kunne motta noe. 
  
  ![Features](features.PNG)
+ 
 *Ingen støtte for tilbakemelding*
+ 
  
  Satte derfor opp en enkel server med Python (https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7) og sendte meldinger til meg selv. I Eggnett-client-koden ser jeg at hvert tastetrykk blir satt sammen med hemmeligheten og deretter gjort om til md5. Dette passet også med meldingene som ble sendt over til serveren min. 
  
   ![Shroud in secrecy](secrecy.PNG)
 
  
-Nå prøvde jeg meg på en ganske ueffektiv løsning, men jeg bestemte meg for å sende over et tegnsett til serveren for å få tilsvarende md5-hasher. Ryddet litt opp i det jeg mottok med `grep` og `sed`, og lagret det i en fil. Deretter lagde jeg et skript i Python som lot meg sjekke hashene opp mot tegnsettet mitt (`hemmelig-melding.ipynb`). En enklere måte kunne muligens ha vært å regne ut dette direkte uten å bruke Eggnett-client i det hele tatt. Jeg hadde skjønt på dette tidspunktet at jeg måtte dekode hashene fra PCAP-filen, så jeg lagret hashene her og ryddet opp slik at det lett lot seg lese i Python. Hashene i PCAP-en var altså sendt som `X-EGG: <payload>`. Meldingen som ble sendt: 
+Jeg bestemte meg for å sende over et tegnsett til serveren for å få tilsvarende md5-hasher. 
+```
+INFO:root:GET request,
+Path: /
+Headers:
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 94cbb3a4b2e22b5ef84ca64be6c40349
+accept: */*
+host: 127.0.0.1:8080
+
+
+
+127.0.0.1 - - [03/Apr/2021 12:16:06] "GET / HTTP/1.1" 200 -
+INFO:root:GET request,
+Path: /
+Headers:
+user-agent: Eggnett/1.0 <github.com/paskeharen/eggnett-client>
+x-egg: 4fec921603cd09123a2b87439c5aab49
+accept: */*
+host: 127.0.0.1:8080
+
+...
+```
+Ryddet litt opp i det jeg mottok med `grep` og `sed`, og lagret det i en fil. Deretter lagde jeg et skript i Python som lot meg sjekke hashene opp mot tegnsettet mitt (`hemmelig-melding.ipynb`). Det finnes kanskje bedre metoder enn dette, men det var det jeg så på som mest intuitivt. Jeg hadde skjønt på dette tidspunktet at jeg måtte dekode hashene fra PCAP-filen, så jeg lagret hashene her og ryddet opp slik at det lett lot seg lese i Python. Hashene i PCAP-en var altså sendt som `X-EGG: <payload>`. Meldingen som ble sendt: 
 ```
 BEGYNN
 EGGNETT KONFIGURASJON SETT oppdateringskilde TIL https://github.com/paaschecomsulting/eggschange
